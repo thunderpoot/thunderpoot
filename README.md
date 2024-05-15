@@ -2,15 +2,15 @@
 
 ## Biography
 
-My name is T E Vaughan, and I'm based in South West London. My career began at [Apple](https://www.apple.com/uk/), where I worked within the EMEIA regions. I then transitioned to audio production, collaborating with [renowned studios](https://www.thisismetropolis.com/) and a range of clients including [Audible](https://www.audible.co.uk/), the [BBC](https://www.bbc.co.uk/), and [Google](https://www.google.com/).
+My name is T E Vaughan, and I'm based in South West London. My career began at [Apple](https://www.apple.com/uk/), where I worked within the EMEIA regions. I then transitioned to broadcast production, collaborating with [renowned studios](https://www.thisismetropolis.com/) and a range of clients including [Audible](https://www.audible.co.uk/), the [BBC](https://www.bbc.co.uk/), and [Google](https://www.google.com/).
 
-Living in Sweden, I became [fluent in the language](https://reklamaremedhalsdukinomhus-blog.tumblr.com/) and worked on [award-winning](https://www2.spikes.asia/winners/2009/digital/entry.cfm?entryid=644&award=99&order=1&direction=1) advertising campaigns for clients like [Ogilvy One](https://www.ogilvy.com/) in Beijing.
+Living in Sweden, I became [fluent in the language](https://reklamaremedhalsdukinomhus-blog.tumblr.com/) and worked on [award-winning](https://www2.spikes.asia/winners/2009/digital/entry.cfm?entryid=644&award=99&order=1&direction=1) advertising campaigns for clients such as [Ogilvy One](https://www.ogilvy.com/) in Beijing.
 
 I have developed proficiency in various programming languages, such as [Golang](https://go.dev/), [Perl](https://www.perl.org/), [Python](https://www.python.org/), and [Rust](https://www.rust-lang.org/), applying these skills to support [community projects](https://github.com/telehack-foundation) and in [my typeface design work](https://vaughantype.com/), particularly projects like [Wumpus Mono](https://github.com/vaughantype/wumpus-mono).
 
-Currently, I run a net [infrastructure consultancy](https://lpx.org.uk/) with a specialised focus on Open Search and Machine Learning.  I am deeply interested in web crawling, and am on-staff at the [Common Crawl Foundation](https://commoncrawl.org/).
+Currently, I run a net [infrastructure consultancy](https://lpx.org.uk/) with a specialised focus on Open Search and Machine Learning.  I'm on–staff at the [Common Crawl Foundation](https://commoncrawl.org/) and a working–group volunteer at [MLCommons](https://mlcommons.org/).
 
-The username "underwood", which I use on most platforms, reflects my admiration for jazz, influenced by [Ruth Underwood](https://www.youtube.com/watch?v=h0aO9gvOyLI) of the Mothers of Invention, and my fondness for [typewriters](https://www.antiquetypewriters.com/typewriter/underwood-1-typewriter/), marrying my interests in both music and classic engineering.
+The username "underwood", which I use on most platforms, reflects my admiration for jazz (influenced by [Ruth Underwood](https://www.youtube.com/watch?v=h0aO9gvOyLI) of the Mothers of Invention), and my obsession with [typewriters](https://www.antiquetypewriters.com/typewriter/underwood-1-typewriter/).
 
 ## My Stack
 
