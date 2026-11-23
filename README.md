@@ -2,24 +2,27 @@
 
 ## Biography
 
-My name is T E Vaughan, and I'm based in South West London. My career began at [Apple](https://www.apple.com/uk/), where I worked within the EMEIA regions. I then transitioned to broadcast production, collaborating with [renowned studios](https://www.thisismetropolis.com/) and a range of clients including [Audible](https://www.audible.co.uk/), the [BBC](https://www.bbc.co.uk/), and [Google](https://www.google.com/).
+My name is [Thom](https://thomvaughan.com/), and I'm based in South West London, UK.
 
-Living in Sweden, I became [fluent in the language](https://reklamaremedhalsdukinomhus-blog.tumblr.com/) and worked on [award-winning](https://www2.spikes.asia/winners/2009/digital/entry.cfm?entryid=644&award=99&order=1&direction=1) advertising campaigns for clients such as [Ogilvy One](https://www.ogilvy.com/) in Beijing.
+I run [LPX](https://lpx.org.uk/), an Internet infrastructure consultancy specialising in open web search and machine learning. LPX is also home to several open source projects, including [Moth](https://getmoth.dev), a free terminal app for Apple silicon Macs.
 
-I have developed proficiency in various programming languages, such as [Golang](https://go.dev/), [Perl](https://www.perl.org/), [Python](https://www.python.org/), and [Rust](https://www.rust-lang.org/), applying these skills to support [community projects](https://github.com/telehack-foundation) and in [my typeface design work](https://vaughantype.com/), particularly projects like [Wumpus Mono](https://github.com/vaughantype/wumpus-mono).
+Much of my work these days is in Internet policy research and standards: I take part in the [IETF](https://www.ietf.org/), writing drafts and conducting research. I'm also on staff at the [Common Crawl Foundation](https://commoncrawl.org/), volunteer with working groups at [MLCommons](https://mlcommons.org/), and co-chair the Datasets Requirements Working Group at the [AI Alliance](https://thealliance.ai).
 
-Currently, I run a net [infrastructure consultancy](https://lpx.org.uk/) with a specialised focus on Open Search and Machine Learning.  I'm on–staff at the [Common Crawl Foundation](https://commoncrawl.org/) and a working–group volunteer at [MLCommons](https://mlcommons.org/).
+I started my career at [Apple](https://www.apple.com/uk/), working across the EMEIA region, then moved into broadcast production, working at [renowned studios](https://www.thisismetropolis.com/) for clients including [Audible](https://www.audible.co.uk/), the [BBC](https://www.bbc.co.uk/), and [Google](https://www.google.com/).
 
-The username "underwood", which I use on most platforms, reflects my admiration for jazz (influenced by [Ruth Underwood](https://www.youtube.com/watch?v=h0aO9gvOyLI) of the Mothers of Invention), and my obsession with [typewriters](https://www.antiquetypewriters.com/typewriter/underwood-1-typewriter/).
+While living in Sweden, I became [fluent in Swedish](https://reklamaremedhalsdukinomhus-blog.tumblr.com/) and worked on advertising campaigns with agencies such as [Ogilvy](https://www.ogilvy.com/) Beijing.
+
+I write [Perl](https://www.perl.org/), [Go](https://go.dev/), [Python](https://www.python.org/), [Swift](https://www.swift.org/), and [Rust](https://www.rust-lang.org/), mostly for [community projects](https://github.com/telehack-foundation) and [my type foundry](https://vaughantype.com/), including the [Wumpus Mono](https://github.com/vaughantype/wumpus-mono) typeface.
+
+My username, [underwood](https://underwood.network), is a nod to jazz percussionist [Ruth Underwood](https://www.youtube.com/watch?v=h0aO9gvOyLI) of the Mothers of Invention, and to my obsession with [typewriters](https://www.antiquetypewriters.com/typewriter/underwood-1-typewriter/). That name was already taken on GitHub, so [my brother](https://cucumberproductions.com) chose this username for me. It's his fault.
 
 ## My Stack
-
+ 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,11 +32,9 @@ The username "underwood", which I use on most platforms, reflects my admiration 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
